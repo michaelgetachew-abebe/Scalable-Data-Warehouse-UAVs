@@ -1,4 +1,6 @@
 # Data Engineering: Data warehouse tech stack with MySQL, DBT, Airflow
+<!-- import an image -->
+![flow-diagram](./img/Site_Map.png)
 
 <!-- Table of contents -->
 - [About](#about)
@@ -9,8 +11,6 @@
 - [License](#license)
 
 ## About
-<!-- import an image -->
-![flow-diagram](./img/Site_Map.png)
 A city traffic department wants to collect traffic data using swarm UAVs (drones) from a number of locations in the city and use the data collected for improving traffic flow in the city and for a number of other undisclosed projects. This project contains all the code base that can create a scalable data warehouse that will host the vehicle trajectory data extracted by analysing footage taken by UAVs and static roadside cameras at various intersections congested sides in the downtown area of Athens, Greece.
 This project makes use of an ELT pipeline as the data load mechanism for loading data into the data warehouse since the ELT framework helps analytic engineers in the city traffic department setup transformation workflows on a need basis. Also, the goals of designing this data warehouse scalablity and ease of use.
 

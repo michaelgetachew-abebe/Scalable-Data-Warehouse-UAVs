@@ -1,8 +1,6 @@
 """This script writes log messages regarding the file it is called upon!!!"""
 import logging
 
-import formatter
-
 class log:
     "log class"
 
@@ -15,7 +13,7 @@ class log:
         logger.setLevel(basic_level)
 
         file_handler = logging.FileHandler(f"../logs/{file_name}")
-        fomatter = logging.Formatter("%(asctime)s : %(levelname)s: %(name)s: %(module)s: %(funcName)s: %(message)s")
+        formatter = logging.Formatter("%(asctime)s : %(levelname)s: %(name)s: %(module)s: %(funcName)s: %(message)s")
 
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)

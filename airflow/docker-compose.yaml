@@ -63,6 +63,11 @@ x-airflow-common:
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
+    - ./sql:/opt/airflow/plugins
+    - ../scripts:/opt/scripts
+    - ../data:/opt/data
+    - ../temp_storage:/opt/temp_storage
+    - ../dbt:/opt/dbt
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on

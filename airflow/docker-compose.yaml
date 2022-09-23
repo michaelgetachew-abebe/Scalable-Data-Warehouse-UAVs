@@ -63,7 +63,7 @@ x-airflow-common:
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
-    - ./sql:/opt/airflow/plugins
+    - ./sql:/opt/sql
     - ../scripts:/opt/scripts
     - ../data:/opt/data
     - ../temp_storage:/opt/temp_storage

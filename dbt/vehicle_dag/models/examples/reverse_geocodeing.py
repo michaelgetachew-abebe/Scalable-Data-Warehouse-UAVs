@@ -4,4 +4,4 @@ def model(dbt, session):
     
     final_df = my_sql_model_df.head()
     
-    return 
+    return final_df

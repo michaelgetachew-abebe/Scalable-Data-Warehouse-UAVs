@@ -38,5 +38,13 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/michaelgetachew-abebe/sensor-data-ELT.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
 [contributors-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs?style=for-the-badge
+[forks-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/network/members
+[stars-shield]: https://img.shields.io/github/stars/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
+[stars-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
+[issues-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/issues
+[license-shield]: https://img.shields.io/github/license/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
+[license-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/blob/master/LICENSE.txt

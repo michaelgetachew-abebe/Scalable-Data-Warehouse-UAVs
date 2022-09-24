@@ -19,7 +19,7 @@ class LoadData:
     def __init__(self) -> None:
         """Initilize class."""
         try:
-            self.logger = Logger("load_data.log").get_app_logger()
+            self.logger = log("../logs/load_data.log").get_app_logger()
             self.logger.info(
                 """Successfully Instantiated
                              load_data Class Object"""

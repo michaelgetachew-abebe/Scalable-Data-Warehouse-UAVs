@@ -1,4 +1,10 @@
 # Data Engineering: Data warehouse tech stack with MySQL, DBT, Airflow
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- import an image -->
 ![flow-diagram](./img/Site_Map.png)
 

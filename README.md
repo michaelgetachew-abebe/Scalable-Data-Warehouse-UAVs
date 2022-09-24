@@ -37,3 +37,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[contributors-shield]: https://img.shields.io/github/contributors/michaelgetachew-abebe/sensor-data-ELT.svg?style=for-the-badge
+[contributors-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/graphs/contributors
